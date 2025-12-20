@@ -1,4 +1,9 @@
-
+/**
+Feedback
+-containsChar - think about using indexOf
+-good namings for variables
+-nicely written code
+**/
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 
